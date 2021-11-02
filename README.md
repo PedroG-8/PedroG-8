@@ -1,7 +1,7 @@
 
-## Hello 
+# Hello welcome :smile:
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=PedroG-8&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy) 
+ <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=PedroG-8&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
